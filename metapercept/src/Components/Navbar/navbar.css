@@ -1,0 +1,32 @@
+.main_navbar_div {
+height: 80px;
+/* border: 1px solid red; */
+display: flex;
+justify-content: space-between;
+padding: 0px 10px 0px 10px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+margin: 10px 0px 20px 0px;
+}
+
+.right_div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.right_div div{
+    margin: 20px 10px 0px 10px;
+}
+
+.right_div button{
+    margin: 20px 10px 0px 10px;
+    height: 40px;
+    width: 70;
+    border-radius: 10px;
+    border-color: aqua;
+}
+
+.left_div h3{
+margin: 20px 0px 0px 0px;
+color: rgb(79, 78, 78);
+}
+

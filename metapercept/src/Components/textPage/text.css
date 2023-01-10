@@ -1,0 +1,31 @@
+.main_div_text{
+background-color: rgb(79,112,200);
+color: azure;
+height: 300px;
+padding-top: 40px;
+}
+
+.main_div_text h3 {
+color: white;
+font-size: 30px;
+font-weight: 400;
+}
+
+.main_div_text div p {
+    color: white;
+}
+.main_div_text div{
+    text-align: center;
+}
+
+.main_div_text button{
+height: 55px;
+width: 120px;
+border: 3px solid white;
+cursor: pointer;
+background-color: white;
+border-radius: 10px;
+margin: 20px 0px 0px 0px;
+}
+
+
